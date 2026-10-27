@@ -1,0 +1,8 @@
+{
+  "name": "Toko Kopi Mergan - Rekap Keuangan Kasir & Operasional",
+  "description": "Aplikasi Rekap Keuangan Kasir Harian, Belanja Operasional, Inventaris Stok, Export PDF & Excel Lintas Cabang Toko Kopi Mergan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
